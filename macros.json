@@ -1,0 +1,12 @@
+{
+    "BTN_SOUTH": [
+        [
+            "XUSB_GAMEPAD_A",
+            2.0
+        ],
+        [
+            "XUSB_GAMEPAD_B",
+            2.0
+        ]
+    ]
+}

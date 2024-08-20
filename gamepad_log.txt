@@ -1,0 +1,1213 @@
+2024-08-20 22:31:09 - Right Stick X: -7424
+2024-08-20 22:31:09 - Right Stick Y: 6399
+2024-08-20 22:31:09 - Right Stick X: -11008
+2024-08-20 22:31:09 - Right Stick Y: 9215
+2024-08-20 22:31:09 - Right Stick X: -14848
+2024-08-20 22:31:09 - Right Stick Y: 11775
+2024-08-20 22:31:09 - Right Stick X: -18176
+2024-08-20 22:31:09 - Right Stick Y: 14591
+2024-08-20 22:31:09 - Right Stick X: -21248
+2024-08-20 22:31:09 - Right Stick Y: 17663
+2024-08-20 22:31:09 - Right Stick X: -23296
+2024-08-20 22:31:09 - Right Stick Y: 21247
+2024-08-20 22:31:09 - Right Stick X: -24576
+2024-08-20 22:31:09 - Right Stick Y: 24575
+2024-08-20 22:31:09 - Right Stick X: -25088
+2024-08-20 22:31:09 - Right Stick Y: 27391
+2024-08-20 22:31:09 - Right Stick X: -25344
+2024-08-20 22:31:09 - Right Stick Y: 29183
+2024-08-20 22:31:09 - Right Stick X: -25600
+2024-08-20 22:31:09 - Right Stick Y: 29951
+2024-08-20 22:31:09 - Right Stick X: -25344
+2024-08-20 22:31:09 - Right Stick Y: 28927
+2024-08-20 22:31:09 - Right Stick X: -24832
+2024-08-20 22:31:09 - Right Stick Y: 26111
+2024-08-20 22:31:09 - Right Stick X: -23296
+2024-08-20 22:31:09 - Right Stick Y: 22271
+2024-08-20 22:31:09 - Right Stick X: -20224
+2024-08-20 22:31:09 - Right Stick Y: 17151
+2024-08-20 22:31:09 - Right Stick X: -15616
+2024-08-20 22:31:09 - Right Stick Y: 11519
+2024-08-20 22:31:09 - Right Stick X: -9984
+2024-08-20 22:31:09 - Right Stick Y: 6399
+2024-08-20 22:31:09 - Right Stick X: 0
+2024-08-20 22:31:09 - Right Stick Y: 0
+2024-08-20 22:31:09 - Released: BTN_SOUTH
+2024-08-20 22:31:10 - Released: BTN_SOUTH
+2024-08-20 22:31:10 - Released: BTN_SOUTH
+2024-08-20 22:31:11 - Released: BTN_SOUTH
+2024-08-20 22:31:11 - Released: BTN_SOUTH
+2024-08-20 22:31:11 - Released: BTN_SOUTH
+2024-08-20 22:31:11 - Released: BTN_SOUTH
+2024-08-20 22:31:12 - Released: BTN_SOUTH
+2024-08-20 22:31:12 - Released: BTN_SOUTH
+2024-08-20 22:31:12 - Released: BTN_SOUTH
+2024-08-20 22:31:13 - Released: BTN_SOUTH
+2024-08-20 22:31:13 - Released: BTN_SOUTH
+2024-08-20 22:31:13 - Released: BTN_SOUTH
+2024-08-20 22:31:13 - Released: BTN_SOUTH
+2024-08-20 22:31:14 - Released: BTN_SOUTH
+2024-08-20 22:31:15 - Released: BTN_SOUTH
+2024-08-20 22:31:15 - Released: BTN_SOUTH
+2024-08-20 22:31:15 - Released: BTN_SOUTH
+2024-08-20 22:31:16 - Released: BTN_SOUTH
+2024-08-20 22:31:16 - Released: BTN_SOUTH
+2024-08-20 22:31:17 - Released: BTN_SOUTH
+2024-08-20 22:31:18 - Released: BTN_SOUTH
+2024-08-20 22:31:18 - Released: BTN_SOUTH
+2024-08-20 22:32:30 - Released: BTN_SOUTH
+2024-08-20 22:32:31 - Right Trigger: 30
+2024-08-20 22:32:31 - Right Trigger: 106
+2024-08-20 22:32:31 - Right Trigger: 147
+2024-08-20 22:32:31 - Right Trigger: 173
+2024-08-20 22:32:31 - Right Trigger: 200
+2024-08-20 22:32:31 - Right Trigger: 226
+2024-08-20 22:32:31 - Right Trigger: 250
+2024-08-20 22:32:31 - Right Trigger: 255
+2024-08-20 22:32:31 - Right Trigger: 250
+2024-08-20 22:32:31 - Right Trigger: 235
+2024-08-20 22:32:31 - Right Trigger: 223
+2024-08-20 22:32:31 - Right Trigger: 209
+2024-08-20 22:32:31 - Right Trigger: 191
+2024-08-20 22:32:31 - Right Trigger: 176
+2024-08-20 22:32:31 - Right Trigger: 159
+2024-08-20 22:32:31 - Right Trigger: 144
+2024-08-20 22:32:31 - Right Trigger: 127
+2024-08-20 22:32:31 - Right Trigger: 112
+2024-08-20 22:32:31 - Right Trigger: 97
+2024-08-20 22:32:31 - Right Trigger: 80
+2024-08-20 22:32:31 - Right Trigger: 47
+2024-08-20 22:32:31 - Right Trigger: 0
+2024-08-20 22:32:32 - Left Trigger: 47
+2024-08-20 22:32:32 - Left Trigger: 127
+2024-08-20 22:32:32 - Left Trigger: 150
+2024-08-20 22:32:32 - Left Trigger: 173
+2024-08-20 22:32:32 - Left Trigger: 191
+2024-08-20 22:32:32 - Left Trigger: 203
+2024-08-20 22:32:32 - Left Trigger: 214
+2024-08-20 22:32:32 - Left Trigger: 223
+2024-08-20 22:32:32 - Left Trigger: 232
+2024-08-20 22:32:32 - Left Trigger: 244
+2024-08-20 22:32:32 - Left Trigger: 253
+2024-08-20 22:32:32 - Left Trigger: 255
+2024-08-20 22:32:32 - Left Trigger: 247
+2024-08-20 22:32:32 - Left Trigger: 229
+2024-08-20 22:32:32 - Left Trigger: 214
+2024-08-20 22:32:32 - Left Trigger: 200
+2024-08-20 22:32:32 - Left Trigger: 185
+2024-08-20 22:32:32 - Left Trigger: 168
+2024-08-20 22:32:32 - Left Trigger: 147
+2024-08-20 22:32:32 - Left Trigger: 121
+2024-08-20 22:32:32 - Left Trigger: 44
+2024-08-20 22:32:32 - Right Trigger: 18
+2024-08-20 22:32:32 - Left Trigger: 0
+2024-08-20 22:32:32 - Right Trigger: 88
+2024-08-20 22:32:32 - Right Trigger: 118
+2024-08-20 22:32:32 - Right Trigger: 138
+2024-08-20 22:32:32 - Right Trigger: 156
+2024-08-20 22:32:32 - Right Trigger: 173
+2024-08-20 22:32:32 - Right Trigger: 191
+2024-08-20 22:32:32 - Right Trigger: 209
+2024-08-20 22:32:32 - Right Trigger: 223
+2024-08-20 22:32:32 - Right Trigger: 235
+2024-08-20 22:32:32 - Right Trigger: 250
+2024-08-20 22:32:32 - Right Trigger: 255
+2024-08-20 22:32:32 - Right Trigger: 250
+2024-08-20 22:32:32 - Right Trigger: 235
+2024-08-20 22:32:32 - Right Trigger: 223
+2024-08-20 22:32:32 - Right Trigger: 209
+2024-08-20 22:32:32 - Right Trigger: 191
+2024-08-20 22:32:32 - Right Trigger: 173
+2024-08-20 22:32:32 - Right Trigger: 156
+2024-08-20 22:32:32 - Right Trigger: 135
+2024-08-20 22:32:32 - Right Trigger: 115
+2024-08-20 22:32:32 - Right Trigger: 74
+2024-08-20 22:32:32 - Right Trigger: 6
+2024-08-20 22:32:32 - Right Trigger: 0
+2024-08-20 22:32:36 - Released: BTN_SOUTH
+2024-08-20 22:32:38 - Left Stick X: -6400
+2024-08-20 22:32:38 - Left Stick Y: -1806
+2024-08-20 22:32:38 - Left Stick X: -7680
+2024-08-20 22:32:38 - Left Stick X: -8704
+2024-08-20 22:32:38 - Left Stick Y: -2580
+2024-08-20 22:32:38 - Left Stick X: -9984
+2024-08-20 22:32:38 - Left Stick X: -11520
+2024-08-20 22:32:38 - Left Stick Y: -3096
+2024-08-20 22:32:38 - Right Trigger: 3
+2024-08-20 22:32:38 - Left Stick X: -12800
+2024-08-20 22:32:38 - Left Stick Y: -4128
+2024-08-20 22:32:38 - Right Trigger: 68
+2024-08-20 22:32:38 - Left Stick X: -14336
+2024-08-20 22:32:38 - Right Trigger: 106
+2024-08-20 22:32:38 - Left Stick X: -15872
+2024-08-20 22:32:38 - Left Stick Y: -4644
+2024-08-20 22:32:38 - Right Trigger: 127
+2024-08-20 22:32:38 - Left Stick X: -17664
+2024-08-20 22:32:38 - Left Stick Y: -5418
+2024-08-20 22:32:38 - Right Trigger: 144
+2024-08-20 22:32:38 - Left Stick X: -19200
+2024-08-20 22:32:38 - Left Stick Y: -5934
+2024-08-20 22:32:38 - Right Trigger: 162
+2024-08-20 22:32:38 - Left Stick X: -20992
+2024-08-20 22:32:38 - Left Stick Y: -6192
+2024-08-20 22:32:38 - Right Trigger: 179
+2024-08-20 22:32:38 - Left Stick X: -22784
+2024-08-20 22:32:38 - Left Stick Y: -6708
+2024-08-20 22:32:38 - Right Trigger: 194
+2024-08-20 22:32:38 - Left Stick X: -24576
+2024-08-20 22:32:38 - Left Stick Y: -7224
+2024-08-20 22:32:38 - Right Trigger: 209
+2024-08-20 22:32:38 - Left Stick X: -26624
+2024-08-20 22:32:38 - Left Stick Y: -7740
+2024-08-20 22:32:38 - Right Trigger: 220
+2024-08-20 22:32:38 - Left Stick X: -28672
+2024-08-20 22:32:38 - Left Stick Y: -7998
+2024-08-20 22:32:38 - Right Trigger: 232
+2024-08-20 22:32:38 - Left Stick X: -31232
+2024-08-20 22:32:38 - Left Stick Y: -8256
+2024-08-20 22:32:38 - Right Trigger: 247
+2024-08-20 22:32:38 - Left Stick X: -32768
+2024-08-20 22:32:38 - Left Stick Y: -8772
+2024-08-20 22:32:38 - Right Trigger: 255
+2024-08-20 22:32:38 - Left Stick Y: -9288
+2024-08-20 22:32:38 - Left Stick Y: -10062
+2024-08-20 22:32:38 - Left Stick Y: -10578
+2024-08-20 22:32:38 - Left Stick Y: -11095
+2024-08-20 22:32:38 - Left Stick Y: -11353
+2024-08-20 22:32:38 - Left Stick Y: -11611
+2024-08-20 22:32:38 - Left Stick Y: -11869
+2024-08-20 22:32:38 - Left Stick Y: -12127
+2024-08-20 22:32:38 - Left Stick Y: -12385
+2024-08-20 22:32:38 - Left Stick Y: -12643
+2024-08-20 22:32:38 - Left Stick Y: -12901
+2024-08-20 22:32:38 - Left Stick Y: -12643
+2024-08-20 22:32:38 - Left Stick Y: -12901
+2024-08-20 22:32:38 - Left Stick Y: -12643
+2024-08-20 22:32:38 - Left Stick Y: -12385
+2024-08-20 22:32:38 - Left Stick Y: -12127
+2024-08-20 22:32:38 - Left Stick Y: -11611
+2024-08-20 22:32:38 - Left Stick Y: -11095
+2024-08-20 22:32:38 - Left Stick Y: -10578
+2024-08-20 22:32:38 - Left Stick Y: -9804
+2024-08-20 22:32:38 - Left Stick Y: -9030
+2024-08-20 22:32:38 - Left Stick Y: -8514
+2024-08-20 22:32:38 - Left Stick Y: -7740
+2024-08-20 22:32:38 - Left Stick Y: -7224
+2024-08-20 22:32:38 - Left Stick X: -31232
+2024-08-20 22:32:38 - Left Stick Y: -6966
+2024-08-20 22:32:38 - Right Trigger: 244
+2024-08-20 22:32:38 - Left Stick X: -29184
+2024-08-20 22:32:38 - Left Stick Y: -6450
+2024-08-20 22:32:38 - Right Trigger: 229
+2024-08-20 22:32:38 - Left Stick X: -27136
+2024-08-20 22:32:38 - Left Stick Y: -5934
+2024-08-20 22:32:38 - Right Trigger: 217
+2024-08-20 22:32:38 - Left Stick X: -25088
+2024-08-20 22:32:38 - Left Stick Y: -5676
+2024-08-20 22:32:38 - Right Trigger: 203
+2024-08-20 22:32:38 - Left Stick X: -23040
+2024-08-20 22:32:38 - Left Stick Y: -5160
+2024-08-20 22:32:38 - Right Trigger: 188
+2024-08-20 22:32:38 - Left Stick X: -20736
+2024-08-20 22:32:38 - Left Stick Y: -4644
+2024-08-20 22:32:38 - Right Trigger: 170
+2024-08-20 22:32:38 - Left Stick X: -18688
+2024-08-20 22:32:38 - Left Stick Y: -4128
+2024-08-20 22:32:38 - Right Trigger: 156
+2024-08-20 22:32:38 - Left Stick X: -16384
+2024-08-20 22:32:38 - Left Stick Y: -3870
+2024-08-20 22:32:38 - Right Trigger: 141
+2024-08-20 22:32:38 - Left Stick X: -14080
+2024-08-20 22:32:38 - Left Stick Y: -3612
+2024-08-20 22:32:38 - Right Trigger: 127
+2024-08-20 22:32:38 - Left Stick X: -11776
+2024-08-20 22:32:38 - Left Stick Y: -2838
+2024-08-20 22:32:38 - Right Trigger: 115
+2024-08-20 22:32:38 - Left Stick X: -7936
+2024-08-20 22:32:38 - Left Stick Y: -2322
+2024-08-20 22:32:38 - Right Trigger: 100
+2024-08-20 22:32:38 - Left Stick X: 0
+2024-08-20 22:32:38 - Left Stick Y: 0
+2024-08-20 22:32:38 - Right Trigger: 85
+2024-08-20 22:32:38 - Right Trigger: 59
+2024-08-20 22:32:38 - Right Trigger: 21
+2024-08-20 22:32:38 - Right Trigger: 0
+2024-08-20 22:32:42 - Released: BTN_SOUTH
+2024-08-20 22:32:47 - Released: BTN_SOUTH
+2024-08-20 22:32:52 - Released: BTN_SOUTH
+2024-08-20 22:32:55 - Right Stick X: 8255
+2024-08-20 22:32:55 - Right Stick Y: -1806
+2024-08-20 22:32:55 - Right Stick X: 12384
+2024-08-20 22:32:55 - Right Stick Y: -2322
+2024-08-20 22:32:55 - Right Stick X: 17286
+2024-08-20 22:32:55 - Right Stick Y: -3096
+2024-08-20 22:32:55 - Right Stick X: 22188
+2024-08-20 22:32:55 - Right Stick Y: -3870
+2024-08-20 22:32:55 - Right Stick X: 27090
+2024-08-20 22:32:55 - Right Stick Y: -4644
+2024-08-20 22:32:55 - Right Stick X: 31476
+2024-08-20 22:32:55 - Right Stick Y: -5418
+2024-08-20 22:32:55 - Right Stick X: 32767
+2024-08-20 22:32:55 - Right Stick Y: -6450
+2024-08-20 22:32:55 - Right Stick Y: -7224
+2024-08-20 22:32:55 - Right Stick Y: -7998
+2024-08-20 22:32:55 - Right Stick Y: -8772
+2024-08-20 22:32:55 - Right Stick Y: -10578
+2024-08-20 22:32:55 - Right Stick Y: -11869
+2024-08-20 22:32:55 - Right Stick Y: -13417
+2024-08-20 22:32:55 - Right Stick Y: -14707
+2024-08-20 22:32:55 - Right Stick Y: -15739
+2024-08-20 22:32:55 - Right Stick Y: -16771
+2024-08-20 22:32:55 - Right Stick Y: -18061
+2024-08-20 22:32:55 - Right Stick Y: -19351
+2024-08-20 22:32:55 - Right Stick Y: -20641
+2024-08-20 22:32:55 - Right Stick Y: -21673
+2024-08-20 22:32:55 - Right Stick Y: -22447
+2024-08-20 22:32:55 - Right Stick Y: -23221
+2024-08-20 22:32:55 - Right Stick Y: -23995
+2024-08-20 22:32:55 - Right Stick Y: -24511
+2024-08-20 22:32:55 - Right Stick Y: -25285
+2024-08-20 22:32:55 - Right Stick Y: -25801
+2024-08-20 22:32:55 - Right Stick Y: -26317
+2024-08-20 22:32:55 - Right Stick Y: -26575
+2024-08-20 22:32:55 - Right Stick Y: -26833
+2024-08-20 22:32:55 - Right Stick Y: -27349
+2024-08-20 22:32:55 - Right Stick Y: -27865
+2024-08-20 22:32:55 - Right Stick Y: -28381
+2024-08-20 22:32:55 - Right Stick Y: -28897
+2024-08-20 22:32:55 - Right Stick X: 32508
+2024-08-20 22:32:55 - Right Stick Y: -29929
+2024-08-20 22:32:55 - Right Stick X: 31734
+2024-08-20 22:32:55 - Right Stick Y: -30961
+2024-08-20 22:32:55 - Right Stick X: 30702
+2024-08-20 22:32:55 - Right Stick Y: -32509
+2024-08-20 22:32:55 - Right Stick X: 29670
+2024-08-20 22:32:55 - Right Stick Y: -32768
+2024-08-20 22:32:55 - Right Stick X: 28380
+2024-08-20 22:32:55 - Right Stick X: 26832
+2024-08-20 22:32:55 - Right Stick X: 25026
+2024-08-20 22:32:55 - Right Stick X: 22962
+2024-08-20 22:32:55 - Right Stick X: 20640
+2024-08-20 22:32:55 - Right Stick X: 17802
+2024-08-20 22:32:55 - Right Stick X: 14706
+2024-08-20 22:32:55 - Right Stick X: 11610
+2024-08-20 22:32:55 - Right Stick X: 8255
+2024-08-20 22:32:55 - Right Stick X: 5159
+2024-08-20 22:32:55 - Right Stick X: 2579
+2024-08-20 22:32:55 - Right Stick X: 0
+2024-08-20 22:32:55 - Right Stick X: -3328
+2024-08-20 22:32:55 - Right Stick X: -6912
+2024-08-20 22:32:55 - Right Stick X: -10496
+2024-08-20 22:32:55 - Right Stick X: -13824
+2024-08-20 22:32:55 - Right Stick X: -17408
+2024-08-20 22:32:55 - Right Stick X: -21248
+2024-08-20 22:32:55 - Right Stick X: -23808
+2024-08-20 22:32:55 - Right Stick X: -26624
+2024-08-20 22:32:55 - Right Stick X: -28672
+2024-08-20 22:32:55 - Right Stick X: -30720
+2024-08-20 22:32:55 - Right Stick Y: -31477
+2024-08-20 22:32:55 - Right Stick X: -32768
+2024-08-20 22:32:55 - Right Stick Y: -29155
+2024-08-20 22:32:55 - Right Stick Y: -26833
+2024-08-20 22:32:55 - Right Stick Y: -25027
+2024-08-20 22:32:55 - Right Stick Y: -22705
+2024-08-20 22:32:55 - Right Stick Y: -20641
+2024-08-20 22:32:55 - Right Stick Y: -18577
+2024-08-20 22:32:55 - Right Stick Y: -16513
+2024-08-20 22:32:55 - Right Stick Y: -14449
+2024-08-20 22:32:55 - Right Stick Y: -12901
+2024-08-20 22:32:55 - Right Stick Y: -11353
+2024-08-20 22:32:55 - Right Stick Y: -9804
+2024-08-20 22:32:55 - Right Stick Y: -8256
+2024-08-20 22:32:55 - Right Stick Y: -7224
+2024-08-20 22:32:55 - Right Stick Y: -5934
+2024-08-20 22:32:55 - Right Stick Y: -4902
+2024-08-20 22:32:55 - Right Stick Y: -3870
+2024-08-20 22:32:55 - Right Stick Y: -3096
+2024-08-20 22:32:55 - Right Stick Y: -2064
+2024-08-20 22:32:55 - Right Stick Y: -1290
+2024-08-20 22:32:55 - Right Stick Y: -516
+2024-08-20 22:32:55 - Right Stick Y: 0
+2024-08-20 22:32:55 - Right Stick Y: 1279
+2024-08-20 22:32:55 - Right Stick Y: 2047
+2024-08-20 22:32:55 - Right Stick Y: 3071
+2024-08-20 22:32:55 - Right Stick Y: 3583
+2024-08-20 22:32:55 - Right Stick Y: 4095
+2024-08-20 22:32:55 - Right Stick Y: 4863
+2024-08-20 22:32:55 - Right Stick Y: 5375
+2024-08-20 22:32:55 - Right Stick Y: 6399
+2024-08-20 22:32:55 - Right Stick Y: 7679
+2024-08-20 22:32:55 - Right Stick Y: 8703
+2024-08-20 22:32:55 - Right Stick Y: 10239
+2024-08-20 22:32:55 - Right Stick Y: 11263
+2024-08-20 22:32:55 - Right Stick Y: 12543
+2024-08-20 22:32:55 - Right Stick Y: 13567
+2024-08-20 22:32:55 - Right Stick X: -32000
+2024-08-20 22:32:55 - Right Stick Y: 14335
+2024-08-20 22:32:55 - Right Stick X: -28672
+2024-08-20 22:32:55 - Right Stick Y: 15359
+2024-08-20 22:32:55 - Right Stick X: -25088
+2024-08-20 22:32:55 - Right Stick Y: 15871
+2024-08-20 22:32:55 - Right Stick X: -21504
+2024-08-20 22:32:55 - Right Stick Y: 16895
+2024-08-20 22:32:55 - Right Stick X: -17408
+2024-08-20 22:32:55 - Right Stick Y: 17407
+2024-08-20 22:32:55 - Right Stick X: -13568
+2024-08-20 22:32:55 - Right Stick Y: 17663
+2024-08-20 22:32:55 - Right Stick X: -9472
+2024-08-20 22:32:55 - Right Stick X: -6656
+2024-08-20 22:32:55 - Right Stick X: -4352
+2024-08-20 22:32:55 - Right Stick Y: 17151
+2024-08-20 22:32:55 - Right Stick X: -2048
+2024-08-20 22:32:55 - Right Stick Y: 16895
+2024-08-20 22:32:55 - Right Stick X: -512
+2024-08-20 22:32:55 - Right Stick Y: 16127
+2024-08-20 22:32:55 - Right Stick X: 773
+2024-08-20 22:32:55 - Right Stick Y: 15359
+2024-08-20 22:32:55 - Right Stick X: 1547
+2024-08-20 22:32:55 - Right Stick Y: 14847
+2024-08-20 22:32:55 - Right Stick X: 2837
+2024-08-20 22:32:55 - Right Stick Y: 14079
+2024-08-20 22:32:55 - Right Stick X: 3611
+2024-08-20 22:32:55 - Right Stick Y: 13567
+2024-08-20 22:32:55 - Right Stick X: 4385
+2024-08-20 22:32:55 - Right Stick Y: 12543
+2024-08-20 22:32:55 - Right Stick X: 4901
+2024-08-20 22:32:55 - Right Stick Y: 11775
+2024-08-20 22:32:56 - Right Stick X: 5417
+2024-08-20 22:32:56 - Right Stick Y: 10495
+2024-08-20 22:32:56 - Right Stick X: 5933
+2024-08-20 22:32:56 - Right Stick Y: 9215
+2024-08-20 22:32:56 - Right Stick X: 6449
+2024-08-20 22:32:56 - Right Stick Y: 7679
+2024-08-20 22:32:56 - Right Stick X: 6707
+2024-08-20 22:32:56 - Right Stick Y: 6399
+2024-08-20 22:32:56 - Right Stick X: 7223
+2024-08-20 22:32:56 - Right Stick Y: 5375
+2024-08-20 22:32:56 - Right Stick X: 7997
+2024-08-20 22:32:56 - Right Stick Y: 4351
+2024-08-20 22:32:56 - Right Stick X: 8771
+2024-08-20 22:32:56 - Right Stick Y: 3583
+2024-08-20 22:32:56 - Right Stick X: 9803
+2024-08-20 22:32:56 - Right Stick Y: 2815
+2024-08-20 22:32:56 - Right Stick X: 11094
+2024-08-20 22:32:56 - Right Stick Y: 2047
+2024-08-20 22:32:56 - Right Stick X: 12384
+2024-08-20 22:32:56 - Right Stick Y: 767
+2024-08-20 22:32:56 - Right Stick X: 14190
+2024-08-20 22:32:56 - Right Stick Y: -258
+2024-08-20 22:32:56 - Right Stick X: 15738
+2024-08-20 22:32:56 - Right Stick Y: -1290
+2024-08-20 22:32:56 - Right Stick X: 17286
+2024-08-20 22:32:56 - Right Stick Y: -2064
+2024-08-20 22:32:56 - Right Stick X: 19092
+2024-08-20 22:32:56 - Right Stick Y: -3096
+2024-08-20 22:32:56 - Right Stick X: 20898
+2024-08-20 22:32:56 - Right Stick Y: -3870
+2024-08-20 22:32:56 - Right Stick X: 22188
+2024-08-20 22:32:56 - Right Stick Y: -4644
+2024-08-20 22:32:56 - Right Stick X: 23994
+2024-08-20 22:32:56 - Right Stick Y: -5418
+2024-08-20 22:32:56 - Right Stick X: 25026
+2024-08-20 22:32:56 - Right Stick Y: -6192
+2024-08-20 22:32:56 - Right Stick X: 25800
+2024-08-20 22:32:56 - Right Stick Y: -7224
+2024-08-20 22:32:56 - Right Stick X: 26832
+2024-08-20 22:32:56 - Right Stick Y: -7998
+2024-08-20 22:32:56 - Right Stick X: 27090
+2024-08-20 22:32:56 - Right Stick Y: -9288
+2024-08-20 22:32:56 - Right Stick X: 27864
+2024-08-20 22:32:56 - Right Stick Y: -10578
+2024-08-20 22:32:56 - Right Stick X: 28122
+2024-08-20 22:32:56 - Right Stick Y: -11869
+2024-08-20 22:32:56 - Right Stick Y: -13159
+2024-08-20 22:32:56 - Right Stick X: 28380
+2024-08-20 22:32:56 - Right Stick Y: -14449
+2024-08-20 22:32:56 - Right Stick Y: -15481
+2024-08-20 22:32:56 - Right Stick Y: -16513
+2024-08-20 22:32:56 - Right Stick Y: -17287
+2024-08-20 22:32:56 - Right Stick Y: -18061
+2024-08-20 22:32:56 - Right Stick Y: -18577
+2024-08-20 22:32:56 - Right Stick X: 28122
+2024-08-20 22:32:56 - Right Stick Y: -18835
+2024-08-20 22:32:56 - Right Stick Y: -19609
+2024-08-20 22:32:56 - Right Stick X: 27606
+2024-08-20 22:32:56 - Right Stick X: 26574
+2024-08-20 22:32:56 - Right Stick Y: -19867
+2024-08-20 22:32:56 - Right Stick X: 25542
+2024-08-20 22:32:56 - Right Stick Y: -20125
+2024-08-20 22:32:56 - Right Stick X: 23736
+2024-08-20 22:32:56 - Right Stick X: 21672
+2024-08-20 22:32:56 - Right Stick Y: -19609
+2024-08-20 22:32:56 - Right Stick X: 19092
+2024-08-20 22:32:56 - Right Stick Y: -18577
+2024-08-20 22:32:56 - Right Stick X: 14448
+2024-08-20 22:32:56 - Right Stick Y: -15481
+2024-08-20 22:32:56 - Right Stick X: 9029
+2024-08-20 22:32:56 - Right Stick Y: -10578
+2024-08-20 22:32:56 - Right Stick X: 3869
+2024-08-20 22:32:56 - Right Stick Y: -5676
+2024-08-20 22:32:56 - Right Stick X: 0
+2024-08-20 22:32:56 - Right Stick Y: 0
+2024-08-20 22:32:56 - Right Stick X: 6449
+2024-08-20 22:32:56 - Right Stick Y: -3870
+2024-08-20 22:32:56 - Right Stick X: 8513
+2024-08-20 22:32:56 - Right Stick Y: -5160
+2024-08-20 22:32:56 - Right Stick X: 11094
+2024-08-20 22:32:56 - Right Stick Y: -6192
+2024-08-20 22:32:56 - Right Stick X: 13416
+2024-08-20 22:32:56 - Right Stick Y: -7482
+2024-08-20 22:32:56 - Right Stick X: 15738
+2024-08-20 22:32:56 - Right Stick Y: -8514
+2024-08-20 22:32:56 - Right Stick X: 18318
+2024-08-20 22:32:56 - Right Stick Y: -9804
+2024-08-20 22:32:56 - Right Stick X: 20640
+2024-08-20 22:32:56 - Right Stick Y: -11353
+2024-08-20 22:32:56 - Right Stick X: 22962
+2024-08-20 22:32:56 - Right Stick Y: -12643
+2024-08-20 22:32:56 - Right Stick X: 25542
+2024-08-20 22:32:56 - Right Stick Y: -14191
+2024-08-20 22:32:56 - Right Stick X: 27864
+2024-08-20 22:32:56 - Right Stick Y: -15739
+2024-08-20 22:32:56 - Right Stick X: 30186
+2024-08-20 22:32:56 - Right Stick Y: -16771
+2024-08-20 22:32:56 - Right Stick X: 32250
+2024-08-20 22:32:56 - Right Stick Y: -18061
+2024-08-20 22:32:56 - Right Stick X: 32767
+2024-08-20 22:32:56 - Right Stick Y: -19351
+2024-08-20 22:32:56 - Right Stick Y: -20383
+2024-08-20 22:32:56 - Right Stick Y: -21157
+2024-08-20 22:32:56 - Right Stick Y: -21415
+2024-08-20 22:32:56 - Right Stick Y: -21673
+2024-08-20 22:32:56 - Right Stick Y: -21931
+2024-08-20 22:32:56 - Right Stick Y: -21673
+2024-08-20 22:32:56 - Right Stick Y: -21415
+2024-08-20 22:32:56 - Right Stick Y: -21157
+2024-08-20 22:32:56 - Right Stick Y: -20641
+2024-08-20 22:32:56 - Right Stick Y: -19867
+2024-08-20 22:32:56 - Right Stick Y: -18835
+2024-08-20 22:32:56 - Right Stick X: 31992
+2024-08-20 22:32:56 - Right Stick Y: -17803
+2024-08-20 22:32:56 - Right Stick X: 29412
+2024-08-20 22:32:56 - Right Stick Y: -16513
+2024-08-20 22:32:56 - Right Stick X: 26832
+2024-08-20 22:32:56 - Right Stick Y: -15997
+2024-08-20 22:32:56 - Right Stick X: 23220
+2024-08-20 22:32:56 - Right Stick Y: -14449
+2024-08-20 22:32:56 - Right Stick X: 18060
+2024-08-20 22:32:56 - Right Stick Y: -12127
+2024-08-20 22:32:56 - Right Stick X: 11094
+2024-08-20 22:32:56 - Right Stick Y: -8256
+2024-08-20 22:32:56 - Right Stick X: 5417
+2024-08-20 22:32:56 - Right Stick Y: -4128
+2024-08-20 22:32:56 - Right Stick X: 0
+2024-08-20 22:32:56 - Right Stick Y: 0
+2024-08-20 22:32:56 - Right Stick X: 6965
+2024-08-20 22:32:56 - Right Stick Y: -516
+2024-08-20 22:32:56 - Right Stick X: 10061
+2024-08-20 22:32:56 - Right Stick Y: -258
+2024-08-20 22:32:56 - Right Stick X: 13158
+2024-08-20 22:32:56 - Right Stick X: 16254
+2024-08-20 22:32:56 - Right Stick Y: -516
+2024-08-20 22:32:56 - Right Stick X: 19092
+2024-08-20 22:32:56 - Right Stick X: 22188
+2024-08-20 22:32:56 - Right Stick X: 25026
+2024-08-20 22:32:56 - Right Stick Y: -774
+2024-08-20 22:32:56 - Right Stick X: 27606
+2024-08-20 22:32:56 - Right Stick X: 30186
+2024-08-20 22:32:56 - Right Stick X: 32767
+2024-08-20 22:32:56 - Right Stick Y: -1290
+2024-08-20 22:32:56 - Right Stick Y: -1548
+2024-08-20 22:32:56 - Right Stick Y: -2064
+2024-08-20 22:32:56 - Right Stick Y: -3096
+2024-08-20 22:32:56 - Right Stick Y: -3870
+2024-08-20 22:32:56 - Right Stick Y: -4902
+2024-08-20 22:32:56 - Right Stick Y: -6192
+2024-08-20 22:32:56 - Right Stick Y: -6966
+2024-08-20 22:32:56 - Right Stick Y: -7740
+2024-08-20 22:32:56 - Right Stick Y: -8256
+2024-08-20 22:32:56 - Right Stick Y: -8772
+2024-08-20 22:32:56 - Right Stick Y: -9030
+2024-08-20 22:32:56 - Right Stick Y: -9288
+2024-08-20 22:32:56 - Right Stick Y: -9804
+2024-08-20 22:32:56 - Right Stick Y: -10062
+2024-08-20 22:32:56 - Right Stick Y: -10320
+2024-08-20 22:32:57 - Right Stick Y: -10578
+2024-08-20 22:32:57 - Right Stick Y: -10836
+2024-08-20 22:32:57 - Right Stick Y: -11353
+2024-08-20 22:32:57 - Right Stick Y: -11869
+2024-08-20 22:32:57 - Right Stick Y: -12385
+2024-08-20 22:32:57 - Right Stick Y: -13159
+2024-08-20 22:32:57 - Right Stick Y: -13933
+2024-08-20 22:32:57 - Right Stick Y: -14707
+2024-08-20 22:32:57 - Right Stick Y: -15481
+2024-08-20 22:32:57 - Right Stick Y: -15997
+2024-08-20 22:32:57 - Right Stick Y: -16771
+2024-08-20 22:32:57 - Right Stick X: 31734
+2024-08-20 22:32:57 - Right Stick Y: -17545
+2024-08-20 22:32:57 - Right Stick X: 30186
+2024-08-20 22:32:57 - Right Stick Y: -18319
+2024-08-20 22:32:57 - Right Stick X: 28638
+2024-08-20 22:32:57 - Right Stick Y: -19093
+2024-08-20 22:32:57 - Right Stick X: 27348
+2024-08-20 22:32:57 - Right Stick Y: -20125
+2024-08-20 22:32:57 - Right Stick X: 25800
+2024-08-20 22:32:57 - Right Stick Y: -20899
+2024-08-20 22:32:57 - Right Stick X: 23994
+2024-08-20 22:32:57 - Right Stick Y: -21415
+2024-08-20 22:32:57 - Right Stick X: 22446
+2024-08-20 22:32:57 - Right Stick Y: -21931
+2024-08-20 22:32:57 - Right Stick X: 21156
+2024-08-20 22:32:57 - Right Stick Y: -22189
+2024-08-20 22:32:57 - Right Stick X: 19350
+2024-08-20 22:32:57 - Right Stick X: 18060
+2024-08-20 22:32:57 - Right Stick X: 16512
+2024-08-20 22:32:57 - Right Stick X: 14706
+2024-08-20 22:32:57 - Right Stick X: 13158
+2024-08-20 22:32:57 - Right Stick X: 11094
+2024-08-20 22:32:57 - Right Stick Y: -21931
+2024-08-20 22:32:57 - Right Stick X: 9287
+2024-08-20 22:32:57 - Right Stick X: 7997
+2024-08-20 22:32:57 - Right Stick Y: -21673
+2024-08-20 22:32:57 - Right Stick X: 6191
+2024-08-20 22:32:57 - Right Stick Y: -21931
+2024-08-20 22:32:57 - Right Stick X: 5417
+2024-08-20 22:32:57 - Right Stick Y: -21673
+2024-08-20 22:32:57 - Right Stick X: 4127
+2024-08-20 22:32:57 - Right Stick X: 3353
+2024-08-20 22:32:57 - Right Stick Y: -21415
+2024-08-20 22:32:57 - Right Stick X: 2321
+2024-08-20 22:32:57 - Right Stick X: 1289
+2024-08-20 22:32:57 - Right Stick X: 773
+2024-08-20 22:32:57 - Right Stick X: 0
+2024-08-20 22:32:57 - Right Stick X: -1024
+2024-08-20 22:32:57 - Right Stick X: -2048
+2024-08-20 22:32:57 - Right Stick X: -2560
+2024-08-20 22:32:57 - Right Stick X: -3072
+2024-08-20 22:32:57 - Right Stick X: -3840
+2024-08-20 22:32:57 - Right Stick X: -4608
+2024-08-20 22:32:57 - Right Stick X: -5632
+2024-08-20 22:32:57 - Right Stick Y: -21673
+2024-08-20 22:32:57 - Right Stick X: -6400
+2024-08-20 22:32:57 - Right Stick X: -7424
+2024-08-20 22:32:57 - Right Stick X: -8960
+2024-08-20 22:32:57 - Right Stick X: -10496
+2024-08-20 22:32:57 - Right Stick X: -12032
+2024-08-20 22:32:57 - Right Stick Y: -22189
+2024-08-20 22:32:57 - Right Stick X: -14336
+2024-08-20 22:32:57 - Right Stick X: -16640
+2024-08-20 22:32:57 - Right Stick Y: -22705
+2024-08-20 22:32:57 - Right Stick X: -18432
+2024-08-20 22:32:57 - Right Stick Y: -23221
+2024-08-20 22:32:57 - Right Stick X: -20992
+2024-08-20 22:32:57 - Right Stick Y: -23995
+2024-08-20 22:32:57 - Right Stick X: -22784
+2024-08-20 22:32:57 - Right Stick Y: -24769
+2024-08-20 22:32:57 - Right Stick X: -24320
+2024-08-20 22:32:57 - Right Stick Y: -25543
+2024-08-20 22:32:57 - Right Stick X: -25600
+2024-08-20 22:32:57 - Right Stick Y: -25801
+2024-08-20 22:32:57 - Right Stick X: -27136
+2024-08-20 22:32:57 - Right Stick Y: -26317
+2024-08-20 22:32:57 - Right Stick X: -28416
+2024-08-20 22:32:57 - Right Stick Y: -26575
+2024-08-20 22:32:57 - Right Stick X: -30208
+2024-08-20 22:32:57 - Right Stick Y: -26833
+2024-08-20 22:32:57 - Right Stick X: -31744
+2024-08-20 22:32:57 - Right Stick X: -32768
+2024-08-20 22:32:57 - Right Stick Y: -27091
+2024-08-20 22:32:57 - Right Stick Y: -27349
+2024-08-20 22:32:57 - Right Stick Y: -27091
+2024-08-20 22:32:57 - Right Stick Y: -26833
+2024-08-20 22:32:57 - Right Stick Y: -26575
+2024-08-20 22:32:57 - Right Stick Y: -26317
+2024-08-20 22:32:57 - Right Stick Y: -26059
+2024-08-20 22:32:57 - Right Stick Y: -25543
+2024-08-20 22:32:57 - Right Stick Y: -24769
+2024-08-20 22:32:57 - Right Stick Y: -24253
+2024-08-20 22:32:57 - Right Stick Y: -23479
+2024-08-20 22:32:57 - Right Stick Y: -23221
+2024-08-20 22:32:57 - Right Stick Y: -22963
+2024-08-20 22:32:57 - Right Stick Y: -22705
+2024-08-20 22:32:57 - Right Stick Y: -22447
+2024-08-20 22:32:57 - Right Stick Y: -22189
+2024-08-20 22:32:57 - Right Stick Y: -21931
+2024-08-20 22:32:57 - Right Stick Y: -21415
+2024-08-20 22:32:57 - Right Stick Y: -21157
+2024-08-20 22:32:57 - Right Stick Y: -20641
+2024-08-20 22:32:57 - Right Stick Y: -20383
+2024-08-20 22:32:57 - Right Stick Y: -19867
+2024-08-20 22:32:57 - Right Stick Y: -19609
+2024-08-20 22:32:57 - Right Stick Y: -19093
+2024-08-20 22:32:57 - Right Stick Y: -18835
+2024-08-20 22:32:57 - Right Stick Y: -18061
+2024-08-20 22:32:57 - Right Stick Y: -17545
+2024-08-20 22:32:57 - Right Stick Y: -16771
+2024-08-20 22:32:57 - Right Stick Y: -15997
+2024-08-20 22:32:57 - Right Stick Y: -14965
+2024-08-20 22:32:57 - Right Stick Y: -13417
+2024-08-20 22:32:57 - Right Stick Y: -11869
+2024-08-20 22:32:57 - Right Stick Y: -9288
+2024-08-20 22:32:57 - Right Stick Y: -6966
+2024-08-20 22:32:57 - Right Stick Y: -4128
+2024-08-20 22:32:57 - Right Stick Y: -1548
+2024-08-20 22:32:57 - Right Stick X: -30976
+2024-08-20 22:32:57 - Right Stick Y: 1279
+2024-08-20 22:32:57 - Right Stick X: -27648
+2024-08-20 22:32:57 - Right Stick Y: 4095
+2024-08-20 22:32:57 - Right Stick X: -23808
+2024-08-20 22:32:57 - Right Stick Y: 7167
+2024-08-20 22:32:57 - Right Stick X: -19968
+2024-08-20 22:32:57 - Right Stick Y: 9471
+2024-08-20 22:32:57 - Right Stick X: -16128
+2024-08-20 22:32:57 - Right Stick Y: 11775
+2024-08-20 22:32:57 - Right Stick X: -12800
+2024-08-20 22:32:57 - Right Stick Y: 13055
+2024-08-20 22:32:57 - Right Stick X: -9728
+2024-08-20 22:32:57 - Right Stick Y: 14591
+2024-08-20 22:32:57 - Right Stick X: -7424
+2024-08-20 22:32:57 - Right Stick Y: 15615
+2024-08-20 22:32:57 - Right Stick X: -5632
+2024-08-20 22:32:57 - Right Stick Y: 16639
+2024-08-20 22:32:57 - Right Stick X: -4352
+2024-08-20 22:32:57 - Right Stick Y: 16895
+2024-08-20 22:32:57 - Right Stick X: -3072
+2024-08-20 22:32:57 - Right Stick Y: 17407
+2024-08-20 22:32:57 - Right Stick X: -1792
+2024-08-20 22:32:57 - Right Stick X: -512
+2024-08-20 22:32:57 - Right Stick X: 773
+2024-08-20 22:32:57 - Right Stick Y: 17663
+2024-08-20 22:32:57 - Right Stick X: 1805
+2024-08-20 22:32:57 - Right Stick X: 3095
+2024-08-20 22:32:57 - Right Stick Y: 17407
+2024-08-20 22:32:57 - Right Stick X: 4385
+2024-08-20 22:32:57 - Right Stick Y: 17663
+2024-08-20 22:32:57 - Right Stick X: 5933
+2024-08-20 22:32:57 - Right Stick Y: 17407
+2024-08-20 22:32:57 - Right Stick X: 7223
+2024-08-20 22:32:57 - Right Stick X: 9287
+2024-08-20 22:32:57 - Right Stick Y: 17151
+2024-08-20 22:32:57 - Right Stick X: 11352
+2024-08-20 22:32:57 - Right Stick Y: 16639
+2024-08-20 22:32:57 - Right Stick X: 13416
+2024-08-20 22:32:57 - Right Stick X: 15996
+2024-08-20 22:32:57 - Right Stick Y: 16383
+2024-08-20 22:32:57 - Right Stick X: 18318
+2024-08-20 22:32:57 - Right Stick Y: 16127
+2024-08-20 22:32:57 - Right Stick X: 20640
+2024-08-20 22:32:57 - Right Stick X: 23220
+2024-08-20 22:32:57 - Right Stick Y: 15871
+2024-08-20 22:32:57 - Right Stick X: 26058
+2024-08-20 22:32:57 - Right Stick X: 28638
+2024-08-20 22:32:57 - Right Stick Y: 15615
+2024-08-20 22:32:57 - Right Stick X: 30960
+2024-08-20 22:32:57 - Right Stick Y: 15103
+2024-08-20 22:32:57 - Right Stick X: 32767
+2024-08-20 22:32:57 - Right Stick Y: 14591
+2024-08-20 22:32:57 - Right Stick Y: 14079
+2024-08-20 22:32:57 - Right Stick Y: 13055
+2024-08-20 22:32:57 - Right Stick Y: 12031
+2024-08-20 22:32:57 - Right Stick Y: 10751
+2024-08-20 22:32:57 - Right Stick Y: 8959
+2024-08-20 22:32:57 - Right Stick Y: 7423
+2024-08-20 22:32:57 - Right Stick Y: 6143
+2024-08-20 22:32:57 - Right Stick Y: 4863
+2024-08-20 22:32:57 - Right Stick Y: 3583
+2024-08-20 22:32:57 - Right Stick Y: 2303
+2024-08-20 22:32:57 - Right Stick Y: 767
+2024-08-20 22:32:57 - Right Stick Y: -774
+2024-08-20 22:32:57 - Right Stick Y: -2064
+2024-08-20 22:32:57 - Right Stick Y: -3354
+2024-08-20 22:32:57 - Right Stick Y: -4386
+2024-08-20 22:32:57 - Right Stick Y: -5160
+2024-08-20 22:32:57 - Right Stick Y: -6192
+2024-08-20 22:32:57 - Right Stick Y: -6450
+2024-08-20 22:32:57 - Right Stick Y: -6966
+2024-08-20 22:32:57 - Right Stick Y: -7482
+2024-08-20 22:32:57 - Right Stick Y: -7998
+2024-08-20 22:32:57 - Right Stick Y: -8256
+2024-08-20 22:32:57 - Right Stick Y: -8772
+2024-08-20 22:32:57 - Right Stick Y: -9288
+2024-08-20 22:32:57 - Right Stick Y: -10320
+2024-08-20 22:32:57 - Right Stick Y: -11095
+2024-08-20 22:32:57 - Right Stick Y: -12127
+2024-08-20 22:32:57 - Right Stick Y: -13159
+2024-08-20 22:32:57 - Right Stick Y: -14191
+2024-08-20 22:32:57 - Right Stick Y: -15481
+2024-08-20 22:32:57 - Right Stick Y: -16771
+2024-08-20 22:32:57 - Right Stick Y: -18319
+2024-08-20 22:32:57 - Right Stick Y: -19867
+2024-08-20 22:32:57 - Right Stick Y: -21931
+2024-08-20 22:32:57 - Right Stick Y: -23737
+2024-08-20 22:32:57 - Right Stick Y: -25801
+2024-08-20 22:32:57 - Right Stick Y: -28123
+2024-08-20 22:32:57 - Right Stick X: 30444
+2024-08-20 22:32:57 - Right Stick Y: -29929
+2024-08-20 22:32:57 - Right Stick X: 28122
+2024-08-20 22:32:57 - Right Stick Y: -32251
+2024-08-20 22:32:57 - Right Stick X: 26316
+2024-08-20 22:32:57 - Right Stick Y: -32768
+2024-08-20 22:32:57 - Right Stick X: 23994
+2024-08-20 22:32:57 - Right Stick X: 21672
+2024-08-20 22:32:57 - Right Stick X: 19608
+2024-08-20 22:32:57 - Right Stick X: 17286
+2024-08-20 22:32:57 - Right Stick X: 14706
+2024-08-20 22:32:57 - Right Stick X: 12126
+2024-08-20 22:32:57 - Right Stick X: 9287
+2024-08-20 22:32:57 - Right Stick X: 6965
+2024-08-20 22:32:57 - Right Stick X: 4643
+2024-08-20 22:32:57 - Right Stick X: 2063
+2024-08-20 22:32:57 - Right Stick X: 0
+2024-08-20 22:32:57 - Right Stick X: -3328
+2024-08-20 22:32:57 - Right Stick X: -6400
+2024-08-20 22:32:57 - Right Stick X: -9216
+2024-08-20 22:32:57 - Right Stick X: -12800
+2024-08-20 22:32:57 - Right Stick X: -16384
+2024-08-20 22:32:57 - Right Stick X: -19712
+2024-08-20 22:32:57 - Right Stick X: -23040
+2024-08-20 22:32:57 - Right Stick X: -26112
+2024-08-20 22:32:57 - Right Stick X: -28672
+2024-08-20 22:32:57 - Right Stick X: -30720
+2024-08-20 22:32:57 - Right Stick Y: -31219
+2024-08-20 22:32:57 - Right Stick X: -32768
+2024-08-20 22:32:57 - Right Stick Y: -29413
+2024-08-20 22:32:57 - Right Stick Y: -27607
+2024-08-20 22:32:57 - Right Stick Y: -26317
+2024-08-20 22:32:57 - Right Stick Y: -24769
+2024-08-20 22:32:57 - Right Stick Y: -23221
+2024-08-20 22:32:57 - Right Stick Y: -21931
+2024-08-20 22:32:57 - Right Stick Y: -20641
+2024-08-20 22:32:57 - Right Stick Y: -19093
+2024-08-20 22:32:57 - Right Stick Y: -17803
+2024-08-20 22:32:57 - Right Stick Y: -16255
+2024-08-20 22:32:57 - Right Stick Y: -15223
+2024-08-20 22:32:57 - Right Stick Y: -14191
+2024-08-20 22:32:57 - Right Stick Y: -12901
+2024-08-20 22:32:57 - Right Stick Y: -11869
+2024-08-20 22:32:57 - Right Stick Y: -10836
+2024-08-20 22:32:57 - Right Stick Y: -9288
+2024-08-20 22:32:57 - Right Stick Y: -8256
+2024-08-20 22:32:57 - Right Stick Y: -7224
+2024-08-20 22:32:57 - Right Stick Y: -5160
+2024-08-20 22:32:57 - Right Stick Y: -3612
+2024-08-20 22:32:57 - Right Stick Y: -1290
+2024-08-20 22:32:57 - Right Stick Y: 1279
+2024-08-20 22:32:57 - Right Stick Y: 4607
+2024-08-20 22:32:57 - Right Stick Y: 8191
+2024-08-20 22:32:57 - Right Stick X: -28672
+2024-08-20 22:32:57 - Right Stick Y: 11263
+2024-08-20 22:32:57 - Right Stick X: -22528
+2024-08-20 22:32:57 - Right Stick Y: 15103
+2024-08-20 22:32:57 - Right Stick X: -16128
+2024-08-20 22:32:57 - Right Stick Y: 18687
+2024-08-20 22:32:57 - Right Stick X: -10240
+2024-08-20 22:32:57 - Right Stick Y: 21759
+2024-08-20 22:32:57 - Right Stick X: -5120
+2024-08-20 22:32:57 - Right Stick Y: 25087
+2024-08-20 22:32:57 - Right Stick X: -768
+2024-08-20 22:32:57 - Right Stick Y: 27903
+2024-08-20 22:32:57 - Right Stick X: 3095
+2024-08-20 22:32:57 - Right Stick Y: 30463
+2024-08-20 22:32:57 - Right Stick X: 7223
+2024-08-20 22:32:57 - Right Stick Y: 32767
+2024-08-20 22:32:57 - Right Stick X: 12126
+2024-08-20 22:32:57 - Right Stick X: 15996
+2024-08-20 22:32:57 - Right Stick X: 19608
+2024-08-20 22:32:57 - Right Stick X: 22188
+2024-08-20 22:32:57 - Right Stick X: 23994
+2024-08-20 22:32:57 - Right Stick X: 25800
+2024-08-20 22:32:57 - Right Stick X: 27090
+2024-08-20 22:32:57 - Right Stick Y: 31743
+2024-08-20 22:32:57 - Right Stick X: 28896
+2024-08-20 22:32:57 - Right Stick Y: 30463
+2024-08-20 22:32:57 - Right Stick X: 30186
+2024-08-20 22:32:57 - Right Stick Y: 28671
+2024-08-20 22:32:57 - Right Stick X: 31476
+2024-08-20 22:32:57 - Right Stick Y: 26879
+2024-08-20 22:32:57 - Right Stick X: 32767
+2024-08-20 22:32:57 - Right Stick Y: 24831
+2024-08-20 22:32:57 - Right Stick Y: 22783
+2024-08-20 22:32:57 - Right Stick Y: 20735
+2024-08-20 22:32:57 - Right Stick Y: 18687
+2024-08-20 22:32:57 - Right Stick Y: 17151
+2024-08-20 22:32:57 - Right Stick Y: 15359
+2024-08-20 22:32:57 - Right Stick Y: 13567
+2024-08-20 22:32:57 - Right Stick Y: 11775
+2024-08-20 22:32:57 - Right Stick Y: 9727
+2024-08-20 22:32:57 - Right Stick Y: 7423
+2024-08-20 22:32:57 - Right Stick Y: 5119
+2024-08-20 22:32:57 - Right Stick Y: 3071
+2024-08-20 22:32:57 - Right Stick Y: 0
+2024-08-20 22:32:58 - Right Stick Y: -2064
+2024-08-20 22:32:58 - Right Stick Y: -4644
+2024-08-20 22:32:58 - Right Stick Y: -7224
+2024-08-20 22:32:58 - Right Stick Y: -9288
+2024-08-20 22:32:58 - Right Stick Y: -11869
+2024-08-20 22:32:58 - Right Stick Y: -13933
+2024-08-20 22:32:58 - Right Stick Y: -16513
+2024-08-20 22:32:58 - Right Stick Y: -19093
+2024-08-20 22:32:58 - Right Stick Y: -21931
+2024-08-20 22:32:58 - Right Stick Y: -24511
+2024-08-20 22:32:58 - Right Stick Y: -27091
+2024-08-20 22:32:58 - Right Stick Y: -29671
+2024-08-20 22:32:58 - Right Stick X: 30960
+2024-08-20 22:32:58 - Right Stick Y: -31993
+2024-08-20 22:32:58 - Right Stick X: 28896
+2024-08-20 22:32:58 - Right Stick Y: -32768
+2024-08-20 22:32:58 - Right Stick X: 26832
+2024-08-20 22:32:58 - Right Stick X: 24768
+2024-08-20 22:32:58 - Right Stick X: 22446
+2024-08-20 22:32:58 - Right Stick X: 20640
+2024-08-20 22:32:58 - Right Stick X: 18576
+2024-08-20 22:32:58 - Right Stick X: 16254
+2024-08-20 22:32:58 - Right Stick X: 14190
+2024-08-20 22:32:58 - Right Stick X: 11868
+2024-08-20 22:32:58 - Right Stick X: 9029
+2024-08-20 22:32:58 - Right Stick X: 7223
+2024-08-20 22:32:58 - Right Stick X: 5159
+2024-08-20 22:32:58 - Right Stick X: 3353
+2024-08-20 22:32:58 - Right Stick X: 1289
+2024-08-20 22:32:58 - Right Stick X: -1024
+2024-08-20 22:32:58 - Right Stick X: -3840
+2024-08-20 22:32:58 - Right Stick X: -6144
+2024-08-20 22:32:58 - Right Stick X: -8704
+2024-08-20 22:32:58 - Right Stick X: -11520
+2024-08-20 22:32:58 - Right Stick X: -14592
+2024-08-20 22:32:58 - Right Stick X: -17920
+2024-08-20 22:32:58 - Right Stick X: -20736
+2024-08-20 22:32:58 - Right Stick X: -23296
+2024-08-20 22:32:58 - Right Stick X: -25600
+2024-08-20 22:32:58 - Right Stick X: -27392
+2024-08-20 22:32:58 - Right Stick X: -29696
+2024-08-20 22:32:58 - Right Stick X: -31744
+2024-08-20 22:32:58 - Right Stick Y: -30445
+2024-08-20 22:32:58 - Right Stick X: -32768
+2024-08-20 22:32:58 - Right Stick Y: -28381
+2024-08-20 22:32:58 - Right Stick Y: -26317
+2024-08-20 22:32:58 - Right Stick Y: -24253
+2024-08-20 22:32:58 - Right Stick Y: -22447
+2024-08-20 22:32:58 - Right Stick Y: -20383
+2024-08-20 22:32:58 - Right Stick Y: -18319
+2024-08-20 22:32:58 - Right Stick Y: -16255
+2024-08-20 22:32:58 - Right Stick Y: -14449
+2024-08-20 22:32:58 - Right Stick Y: -12901
+2024-08-20 22:32:58 - Right Stick Y: -11095
+2024-08-20 22:32:58 - Right Stick Y: -9288
+2024-08-20 22:32:58 - Right Stick Y: -7740
+2024-08-20 22:32:58 - Right Stick Y: -5934
+2024-08-20 22:32:58 - Right Stick Y: -4128
+2024-08-20 22:32:58 - Right Stick Y: -1806
+2024-08-20 22:32:58 - Right Stick Y: 0
+2024-08-20 22:32:58 - Right Stick Y: 2303
+2024-08-20 22:32:58 - Right Stick Y: 4607
+2024-08-20 22:32:58 - Right Stick Y: 6911
+2024-08-20 22:32:58 - Right Stick X: -31488
+2024-08-20 22:32:58 - Right Stick Y: 8447
+2024-08-20 22:32:58 - Right Stick X: -29184
+2024-08-20 22:32:58 - Right Stick Y: 10239
+2024-08-20 22:32:58 - Right Stick X: -26624
+2024-08-20 22:32:58 - Right Stick Y: 12031
+2024-08-20 22:32:58 - Right Stick X: -24832
+2024-08-20 22:32:58 - Right Stick Y: 13055
+2024-08-20 22:32:58 - Right Stick X: -22784
+2024-08-20 22:32:58 - Right Stick Y: 13823
+2024-08-20 22:32:58 - Right Stick X: -19712
+2024-08-20 22:32:58 - Right Stick X: -15104
+2024-08-20 22:32:58 - Right Stick Y: 12799
+2024-08-20 22:32:58 - Right Stick X: -9728
+2024-08-20 22:32:58 - Right Stick Y: 10239
+2024-08-20 22:32:58 - Right Stick X: -4352
+2024-08-20 22:32:58 - Right Stick Y: 6143
+2024-08-20 22:32:58 - Right Stick X: 0
+2024-08-20 22:32:58 - Right Stick Y: 0
+2024-08-20 22:32:58 - Left Stick X: -5888
+2024-08-20 22:32:58 - Left Stick Y: -3096
+2024-08-20 22:32:58 - Left Stick X: -8192
+2024-08-20 22:32:58 - Left Stick Y: -3612
+2024-08-20 22:32:58 - Left Stick X: -10496
+2024-08-20 22:32:58 - Left Stick Y: -4128
+2024-08-20 22:32:58 - Left Stick X: -12800
+2024-08-20 22:32:58 - Left Stick Y: -4644
+2024-08-20 22:32:58 - Left Stick X: -15104
+2024-08-20 22:32:58 - Left Stick Y: -4902
+2024-08-20 22:32:58 - Left Stick X: -17408
+2024-08-20 22:32:58 - Left Stick Y: -5418
+2024-08-20 22:32:58 - Left Stick X: -20224
+2024-08-20 22:32:58 - Left Stick Y: -5676
+2024-08-20 22:32:58 - Left Stick X: -22528
+2024-08-20 22:32:58 - Left Stick Y: -6192
+2024-08-20 22:32:58 - Left Stick X: -25600
+2024-08-20 22:32:58 - Left Stick X: -28928
+2024-08-20 22:32:58 - Left Stick Y: -6450
+2024-08-20 22:32:58 - Left Stick X: -32768
+2024-08-20 22:32:58 - Left Stick Y: -6708
+2024-08-20 22:32:58 - Left Stick Y: -6966
+2024-08-20 22:32:58 - Left Stick Y: -7224
+2024-08-20 22:32:58 - Left Stick Y: -6966
+2024-08-20 22:32:58 - Left Stick Y: -6708
+2024-08-20 22:32:58 - Left Stick Y: -6966
+2024-08-20 22:32:58 - Left Stick Y: -7224
+2024-08-20 22:32:58 - Left Stick Y: -7482
+2024-08-20 22:32:58 - Left Stick Y: -7224
+2024-08-20 22:32:58 - Left Stick Y: -6966
+2024-08-20 22:32:58 - Left Stick Y: -6708
+2024-08-20 22:32:58 - Left Stick Y: -6450
+2024-08-20 22:32:58 - Left Stick X: -29440
+2024-08-20 22:32:58 - Left Stick Y: -6192
+2024-08-20 22:32:58 - Left Stick X: -25856
+2024-08-20 22:32:58 - Left Stick Y: -5934
+2024-08-20 22:32:58 - Left Stick X: -22528
+2024-08-20 22:32:58 - Left Stick Y: -5676
+2024-08-20 22:32:58 - Left Stick X: -19456
+2024-08-20 22:32:58 - Left Stick Y: -5160
+2024-08-20 22:32:58 - Left Stick X: -16128
+2024-08-20 22:32:58 - Left Stick Y: -4386
+2024-08-20 22:32:58 - Left Stick X: -13312
+2024-08-20 22:32:58 - Left Stick Y: -4128
+2024-08-20 22:32:58 - Left Stick X: -10752
+2024-08-20 22:32:58 - Left Stick Y: -3354
+2024-08-20 22:32:58 - Left Stick X: -7936
+2024-08-20 22:32:58 - Left Stick Y: -2838
+2024-08-20 22:32:58 - Left Stick X: 0
+2024-08-20 22:32:58 - Left Stick Y: 0
+2024-08-20 22:32:58 - Left Stick X: -7168
+2024-08-20 22:32:58 - Left Stick Y: 1279
+2024-08-20 22:32:58 - Left Stick X: -10496
+2024-08-20 22:32:58 - Left Stick Y: 2047
+2024-08-20 22:32:58 - Left Stick X: -13824
+2024-08-20 22:32:58 - Left Stick Y: 2303
+2024-08-20 22:32:58 - Left Stick X: -17152
+2024-08-20 22:32:58 - Left Stick Y: 2815
+2024-08-20 22:32:58 - Left Stick X: -20736
+2024-08-20 22:32:58 - Left Stick Y: 3071
+2024-08-20 22:32:58 - Left Stick X: -24064
+2024-08-20 22:32:58 - Left Stick Y: 4095
+2024-08-20 22:32:58 - Left Stick X: -27648
+2024-08-20 22:32:58 - Left Stick Y: 4351
+2024-08-20 22:32:58 - Left Stick X: -31232
+2024-08-20 22:32:58 - Left Stick Y: 5887
+2024-08-20 22:32:58 - Left Stick X: -32768
+2024-08-20 22:32:58 - Left Stick Y: 7935
+2024-08-20 22:32:58 - Left Stick Y: 9983
+2024-08-20 22:32:58 - Left Stick Y: 11775
+2024-08-20 22:32:58 - Left Stick Y: 12799
+2024-08-20 22:32:58 - Left Stick Y: 13055
+2024-08-20 22:32:58 - Left Stick Y: 12799
+2024-08-20 22:32:58 - Left Stick Y: 11519
+2024-08-20 22:32:58 - Left Stick Y: 9471
+2024-08-20 22:32:58 - Left Stick Y: 7423
+2024-08-20 22:32:58 - Left Stick Y: 5887
+2024-08-20 22:32:58 - Left Stick Y: 4351
+2024-08-20 22:32:58 - Left Stick Y: 3583
+2024-08-20 22:32:58 - Left Stick Y: 3071
+2024-08-20 22:32:58 - Left Stick Y: 2047
+2024-08-20 22:32:58 - Left Stick Y: 1023
+2024-08-20 22:32:58 - Left Stick Y: -516
+2024-08-20 22:32:58 - Left Stick Y: -2064
+2024-08-20 22:32:58 - Left Stick Y: -4128
+2024-08-20 22:32:58 - Left Stick Y: -5934
+2024-08-20 22:32:58 - Left Stick Y: -6966
+2024-08-20 22:32:58 - Left Stick Y: -7482
+2024-08-20 22:32:58 - Left Stick Y: -8256
+2024-08-20 22:32:58 - Left Stick Y: -8772
+2024-08-20 22:32:58 - Left Stick Y: -9288
+2024-08-20 22:32:58 - Left Stick Y: -10062
+2024-08-20 22:32:58 - Left Stick Y: -10578
+2024-08-20 22:32:58 - Left Stick Y: -11353
+2024-08-20 22:32:58 - Left Stick Y: -11611
+2024-08-20 22:32:58 - Left Stick Y: -12127
+2024-08-20 22:32:58 - Left Stick Y: -12385
+2024-08-20 22:32:58 - Left Stick Y: -12643
+2024-08-20 22:32:58 - Left Stick X: -28928
+2024-08-20 22:32:58 - Left Stick Y: -11095
+2024-08-20 22:32:58 - Left Stick X: -19456
+2024-08-20 22:32:58 - Left Stick Y: -8772
+2024-08-20 22:32:58 - Left Stick X: -9728
+2024-08-20 22:32:58 - Left Stick Y: -4902
+2024-08-20 22:32:58 - Left Stick X: 0
+2024-08-20 22:32:58 - Left Stick Y: 0
+2024-08-20 22:32:58 - Left Stick X: -6912
+2024-08-20 22:32:58 - Left Stick Y: -3096
+2024-08-20 22:32:58 - Left Stick X: -9216
+2024-08-20 22:32:58 - Left Stick Y: -3612
+2024-08-20 22:32:58 - Left Stick X: -11520
+2024-08-20 22:32:58 - Left Stick Y: -3870
+2024-08-20 22:32:58 - Left Stick X: -14080
+2024-08-20 22:32:58 - Left Stick X: -16384
+2024-08-20 22:32:58 - Left Stick Y: -4386
+2024-08-20 22:32:58 - Left Stick X: -19200
+2024-08-20 22:32:58 - Left Stick Y: -4644
+2024-08-20 22:32:58 - Left Stick X: -21760
+2024-08-20 22:32:58 - Left Stick Y: -4386
+2024-08-20 22:32:58 - Left Stick X: -24320
+2024-08-20 22:32:58 - Left Stick Y: -4644
+2024-08-20 22:32:58 - Left Stick X: -27136
+2024-08-20 22:32:58 - Left Stick Y: -4902
+2024-08-20 22:32:58 - Left Stick X: -30464
+2024-08-20 22:32:58 - Left Stick Y: -4644
+2024-08-20 22:32:58 - Left Stick X: -32768
+2024-08-20 22:32:58 - Left Stick Y: -4902
+2024-08-20 22:32:58 - Left Stick Y: -4644
+2024-08-20 22:32:59 - Left Stick Y: -4386
+2024-08-20 22:32:59 - Left Stick Y: -3870
+2024-08-20 22:32:59 - Left Stick Y: -3354
+2024-08-20 22:32:59 - Left Stick Y: -2580
+2024-08-20 22:32:59 - Left Stick Y: -1806
+2024-08-20 22:32:59 - Left Stick Y: -1032
+2024-08-20 22:32:59 - Left Stick Y: -774
+2024-08-20 22:32:59 - Left Stick Y: -516
+2024-08-20 22:32:59 - Left Stick Y: -258
+2024-08-20 22:32:59 - Left Stick Y: -516
+2024-08-20 22:32:59 - Left Stick Y: -774
+2024-08-20 22:32:59 - Left Stick Y: -1032
+2024-08-20 22:32:59 - Left Stick Y: -1806
+2024-08-20 22:32:59 - Left Stick Y: -2064
+2024-08-20 22:32:59 - Left Stick Y: -3096
+2024-08-20 22:32:59 - Left Stick Y: -3354
+2024-08-20 22:32:59 - Left Stick X: -31232
+2024-08-20 22:32:59 - Left Stick X: -28160
+2024-08-20 22:32:59 - Left Stick X: -24832
+2024-08-20 22:32:59 - Left Stick Y: -3096
+2024-08-20 22:32:59 - Left Stick X: -20992
+2024-08-20 22:32:59 - Left Stick Y: -2838
+2024-08-20 22:32:59 - Left Stick X: -17152
+2024-08-20 22:32:59 - Left Stick X: -12544
+2024-08-20 22:32:59 - Left Stick Y: -2322
+2024-08-20 22:32:59 - Left Stick X: -8192
+2024-08-20 22:32:59 - Left Stick Y: -1806
+2024-08-20 22:32:59 - Left Stick X: 0
+2024-08-20 22:32:59 - Left Stick Y: 0
+2024-08-20 22:32:59 - Left Stick X: -7424
+2024-08-20 22:32:59 - Left Stick Y: -1548
+2024-08-20 22:32:59 - Left Stick X: -11008
+2024-08-20 22:32:59 - Left Stick Y: -2064
+2024-08-20 22:32:59 - Left Stick X: -14592
+2024-08-20 22:32:59 - Left Stick Y: -2838
+2024-08-20 22:32:59 - Left Stick X: -18176
+2024-08-20 22:32:59 - Left Stick Y: -3096
+2024-08-20 22:32:59 - Left Stick X: -21504
+2024-08-20 22:32:59 - Left Stick Y: -3354
+2024-08-20 22:32:59 - Left Stick X: -25600
+2024-08-20 22:32:59 - Left Stick Y: -2838
+2024-08-20 22:32:59 - Left Stick X: -29184
+2024-08-20 22:32:59 - Left Stick X: -32768
+2024-08-20 22:32:59 - Left Stick Y: -2064
+2024-08-20 22:32:59 - Left Stick Y: -1806
+2024-08-20 22:32:59 - Left Stick Y: -774
+2024-08-20 22:32:59 - Left Stick Y: 0
+2024-08-20 22:32:59 - Left Stick Y: 1023
+2024-08-20 22:32:59 - Left Stick Y: 1791
+2024-08-20 22:32:59 - Left Stick Y: 2047
+2024-08-20 22:32:59 - Left Stick Y: 2815
+2024-08-20 22:32:59 - Left Stick Y: 3071
+2024-08-20 22:32:59 - Left Stick X: -27392
+2024-08-20 22:32:59 - Left Stick Y: 2815
+2024-08-20 22:32:59 - Left Stick X: -20736
+2024-08-20 22:32:59 - Left Stick Y: 2559
+2024-08-20 22:32:59 - Left Stick X: -14080
+2024-08-20 22:32:59 - Left Stick Y: 2303
+2024-08-20 22:32:59 - Left Stick X: -7168
+2024-08-20 22:32:59 - Left Stick Y: 1791
+2024-08-20 22:32:59 - Left Stick X: 0
+2024-08-20 22:32:59 - Left Stick Y: 0
+2024-08-20 22:32:59 - Left Stick X: -7168
+2024-08-20 22:32:59 - Left Stick Y: -3354
+2024-08-20 22:32:59 - Left Stick X: -10496
+2024-08-20 22:32:59 - Left Stick Y: -4128
+2024-08-20 22:32:59 - Left Stick X: -13312
+2024-08-20 22:32:59 - Left Stick Y: -4902
+2024-08-20 22:32:59 - Left Stick X: -16640
+2024-08-20 22:32:59 - Left Stick Y: -5676
+2024-08-20 22:32:59 - Left Stick X: -19200
+2024-08-20 22:32:59 - Left Stick Y: -5934
+2024-08-20 22:32:59 - Left Stick X: -22272
+2024-08-20 22:32:59 - Left Stick Y: -6450
+2024-08-20 22:32:59 - Left Stick X: -25856
+2024-08-20 22:32:59 - Left Stick X: -29440
+2024-08-20 22:32:59 - Left Stick Y: -6708
+2024-08-20 22:32:59 - Left Stick X: -32768
+2024-08-20 22:32:59 - Left Stick Y: -6966
+2024-08-20 22:32:59 - Left Stick Y: -6708
+2024-08-20 22:32:59 - Left Stick Y: -5934
+2024-08-20 22:32:59 - Left Stick Y: -4902
+2024-08-20 22:32:59 - Left Stick Y: -4386
+2024-08-20 22:32:59 - Left Stick Y: -3354
+2024-08-20 22:32:59 - Left Stick Y: -3096
+2024-08-20 22:32:59 - Left Stick Y: -2580
+2024-08-20 22:32:59 - Left Stick Y: -1806
+2024-08-20 22:32:59 - Left Stick Y: -1032
+2024-08-20 22:32:59 - Left Stick Y: -258
+2024-08-20 22:32:59 - Left Stick Y: 511
+2024-08-20 22:32:59 - Left Stick Y: 1279
+2024-08-20 22:32:59 - Left Stick Y: 2047
+2024-08-20 22:32:59 - Left Stick Y: 3071
+2024-08-20 22:32:59 - Left Stick Y: 4095
+2024-08-20 22:32:59 - Left Stick Y: 4607
+2024-08-20 22:32:59 - Left Stick Y: 5375
+2024-08-20 22:32:59 - Left Stick X: -23552
+2024-08-20 22:32:59 - Left Stick Y: 4095
+2024-08-20 22:32:59 - Left Stick X: -6656
+2024-08-20 22:32:59 - Left Stick Y: 1535
+2024-08-20 22:32:59 - Left Stick X: 0
+2024-08-20 22:32:59 - Left Stick Y: 0
+2024-08-20 22:33:18 - Released: BTN_SOUTH
+2024-08-20 22:33:44 - Released: BTN_SOUTH
+2024-08-20 22:33:49 - Released: BTN_SOUTH
+2024-08-20 22:49:48 - Released: BTN_SOUTH
+2024-08-20 22:49:48 - Pressed: BTN_EAST
+2024-08-20 22:49:48 - Released: BTN_EAST
+2024-08-20 22:49:49 - Pressed: BTN_EAST
+2024-08-20 22:49:49 - Released: BTN_EAST
+2024-08-20 22:49:49 - Pressed: BTN_NORTH
+2024-08-20 22:49:49 - Released: BTN_NORTH
+2024-08-20 22:49:50 - Pressed: BTN_WEST
+2024-08-20 22:49:50 - Released: BTN_WEST
+2024-08-20 22:49:51 - Macros disabled
+2024-08-20 22:49:51 - Pressed: BTN_SOUTH
+2024-08-20 22:49:51 - Released: BTN_SOUTH
+2024-08-20 22:49:51 - Pressed: BTN_SOUTH
+2024-08-20 22:49:51 - Released: BTN_SOUTH
+2024-08-20 22:49:51 - Pressed: BTN_SOUTH
+2024-08-20 22:49:51 - Released: BTN_SOUTH
+2024-08-20 22:49:51 - Pressed: BTN_SOUTH
+2024-08-20 22:49:51 - Released: BTN_SOUTH
+2024-08-20 22:49:52 - Pressed: BTN_SOUTH
+2024-08-20 22:49:52 - Released: BTN_SOUTH
+2024-08-20 22:49:52 - Pressed: BTN_EAST
+2024-08-20 22:49:52 - Released: BTN_EAST
+2024-08-20 22:49:52 - Pressed: BTN_WEST
+2024-08-20 22:49:52 - Released: BTN_WEST
+2024-08-20 22:49:52 - Pressed: BTN_EAST
+2024-08-20 22:49:52 - Released: BTN_EAST
+2024-08-20 22:49:52 - Pressed: BTN_NORTH
+2024-08-20 22:49:53 - Released: BTN_NORTH
+2024-08-20 22:49:53 - Pressed: BTN_SOUTH
+2024-08-20 22:49:53 - Released: BTN_SOUTH
+2024-08-20 22:49:53 - Pressed: BTN_NORTH
+2024-08-20 22:49:53 - Pressed: BTN_SOUTH
+2024-08-20 22:49:53 - Released: BTN_NORTH
+2024-08-20 22:49:53 - Released: BTN_SOUTH
+2024-08-20 22:49:53 - Pressed: BTN_NORTH
+2024-08-20 22:49:53 - Released: BTN_NORTH
+2024-08-20 22:49:53 - Pressed: BTN_SOUTH
+2024-08-20 22:49:53 - Released: BTN_SOUTH
+2024-08-20 22:49:53 - Pressed: BTN_NORTH
+2024-08-20 22:49:54 - Released: BTN_NORTH
+2024-08-20 22:49:54 - Pressed: BTN_SOUTH
+2024-08-20 22:49:54 - Released: BTN_SOUTH
+2024-08-20 22:49:54 - Pressed: BTN_NORTH
+2024-08-20 22:49:54 - Released: BTN_NORTH
+2024-08-20 22:49:54 - Pressed: BTN_SOUTH
+2024-08-20 22:49:54 - Released: BTN_SOUTH
+2024-08-20 22:49:54 - Pressed: BTN_NORTH
+2024-08-20 22:49:54 - Released: BTN_NORTH
+2024-08-20 22:49:54 - Pressed: BTN_SOUTH
+2024-08-20 22:49:54 - Released: BTN_SOUTH
+2024-08-20 22:49:54 - Pressed: BTN_NORTH
+2024-08-20 22:49:54 - Released: BTN_NORTH
+2024-08-20 22:49:54 - Pressed: BTN_SOUTH
+2024-08-20 22:49:55 - Released: BTN_SOUTH
+2024-08-20 22:49:55 - Pressed: BTN_NORTH
+2024-08-20 22:49:55 - Released: BTN_NORTH
+2024-08-20 22:49:55 - Pressed: BTN_SOUTH
+2024-08-20 22:49:55 - Released: BTN_SOUTH
